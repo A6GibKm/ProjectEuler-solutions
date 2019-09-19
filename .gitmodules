@@ -1,0 +1,15 @@
+[submodule "p016"]
+	path = p016
+	url = ./p016/
+[submodule "p017"]
+	path = p017
+	url = ./p017/
+[submodule "p407"]
+	path = p407
+	url = ./p407/
+[submodule "p634"]
+	path = p634
+	url = ./p634/
+[submodule "p96"]
+	path = p96
+	url = ./p96/
